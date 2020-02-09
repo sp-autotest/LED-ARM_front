@@ -1,0 +1,4 @@
+export const A_GET_REPORTS = "A_GET_REPORTS";
+export const A_SAND_REPORTS = "A_SAND_REPORTS";
+export const A_FORM_REPORTS = "A_FORM_REPORTS";
+export const A_UNLOAD_REPORTS = "A_UNLOAD_REPORTS";

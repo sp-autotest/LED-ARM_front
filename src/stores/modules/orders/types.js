@@ -1,0 +1,8 @@
+export const A_ORDERS = "A_ORDERS";
+export const A_ORDERS_CHANGE = "A_ORDERS_CHANGE";
+export const A_TO_ORDER = "A_TO_ORDER";
+export const A_GLOBAL_SEARCH_SAVE = "A_GLOBAL_SEARCH_SAVE";
+export const A_ORDERS_RELOAD = "A_ORDERS_RELOAD";
+export const A_ORDER_STATUS = "A_ORDER_STATUS";
+export const A_EXCHANGE_ORDER = "A_EXCHANGE_ORDER";
+export const A_EXCHANGE_ORDER_INFO = "A_EXCHANGE_ORDER_INFO";
